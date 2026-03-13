@@ -33,8 +33,8 @@ Projeyi kullanmak oldukça basittir:
 Projenin temel kullanımını ve özelliklerini aşağıdaki videodan izleyebilirsiniz:
 
 <p align="center">
-  <video src="usage_video.mp4" width="100%" controls>
-    Tarayıcınız video etiketini desteklemiyor. <a href="usage_video.mp4">Buraya tıklayarak videoyu indirebilirsiniz.</a>
+  <video src="[usage_video.mp4](https://raw.githubusercontent.com/nightsamuraisec/Ada_Terminal_Generator/main/usage_video.mp4)" width="100%" controls>
+    Tarayıcınız video etiketini desteklemiyor. <a href="[usage_video.mp4](https://raw.githubusercontent.com/nightsamuraisec/Ada_Terminal_Generator/main/usage_video.mp4)">Buraya tıklayarak videoyu indirebilirsiniz.</a>
   </video>
 </p>
 
